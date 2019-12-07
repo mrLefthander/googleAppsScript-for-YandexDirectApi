@@ -1,6 +1,6 @@
 function refresher() {  
   var spreadsheetUrls = [
-     
+     //insert spreadshit URL to process
 ]; 
   
   for(var s = 0; s < spreadsheetUrls.length; s++) {
@@ -70,6 +70,7 @@ function trimArray(array){
 }
 //Выбор токена для агентства
 function chooseToken(clientLogin){  
+  //insert real tokens
   var tokenBY = 'qq';
   var tokenRU = 'qq';
   var tokenKZ = 'qq';
